@@ -1,0 +1,8 @@
+C:\Users\crist\source\repos\FPU3_EJEMPLO1\bin\Debug\FPU3_EJEMPLO1.exe.config
+C:\Users\crist\source\repos\FPU3_EJEMPLO1\bin\Debug\FPU3_EJEMPLO1.exe
+C:\Users\crist\source\repos\FPU3_EJEMPLO1\bin\Debug\FPU3_EJEMPLO1.pdb
+C:\Users\crist\source\repos\FPU3_EJEMPLO1\obj\Debug\FPU3_EJEMPLO1.csproj.AssemblyReference.cache
+C:\Users\crist\source\repos\FPU3_EJEMPLO1\obj\Debug\FPU3_EJEMPLO1.csproj.SuggestedBindingRedirects.cache
+C:\Users\crist\source\repos\FPU3_EJEMPLO1\obj\Debug\FPU3_EJEMPLO1.csproj.CoreCompileInputs.cache
+C:\Users\crist\source\repos\FPU3_EJEMPLO1\obj\Debug\FPU3_EJEMPLO1.exe
+C:\Users\crist\source\repos\FPU3_EJEMPLO1\obj\Debug\FPU3_EJEMPLO1.pdb
